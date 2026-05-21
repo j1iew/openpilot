@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<rect width="640" height="360" fill="#10161d"/>
+<rect x="1" y="1" width="638" height="358" fill="none" stroke="#354252" stroke-width="2"/>
+<path d="M296 126h48l20 24h44a24 24 0 0 1 24 24v72a24 24 0 0 1-24 24H232a24 24 0 0 1-24-24v-72a24 24 0 0 1 24-24h44z" fill="#253241"/>
+<circle cx="320" cy="210" r="42" fill="#111820" stroke="#5d6c7d" stroke-width="8"/>
+<path d="M306 188v44l38-22z" fill="#ffb268"/>
+<text x="320" y="306" text-anchor="middle" fill="#9aa6b2" font-family="Arial, sans-serif" font-size="24" font-weight="700">NO THUMBNAIL</text>
+</svg>
